@@ -7,7 +7,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="<?php echo base_url('dashboard'); ?>"><strong>PT. Selamat Lestari Mandiri</strong></a>
+                <a class="navbar-brand" href="<?php echo base_url('dashboard'); ?>"><strong>Inventarisasi</strong></a>
             </div>
             <!-- /.navbar-header -->
 
